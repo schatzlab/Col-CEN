@@ -30,6 +30,6 @@ The Col-CEN v1.2 genome assembly in FASTA format
 
 The Col-CEN v1.2 gene annotation, lifted from the Araport11 annotation.
 
-###Col-CEN_v1.2_genes.tair10.gff3.gz
+### Col-CEN_v1.2_genes.tair10.gff3.gz
 
 The Col-CEN v1.2 gene annotation, lifted from the TAIR10 annotation. This was the annotation used to generate the results presented in the publication.
