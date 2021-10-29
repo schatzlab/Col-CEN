@@ -21,3 +21,15 @@ A VCF and associated index file storing DeepVariant small variant calls generate
 ### unmapped_and_extra_copy_genes.xlsx
 
 An Excel spreadsheet providing explanations for every TAIR10 gene that did not map or mapped multiple times to Col-CEN v1.2
+
+### Col-CEN_v1.2.fasta.gz
+
+The Col-CEN v1.2 genome assembly in FASTA format
+
+### Col-CEN_v1.2_genes.araport11.gff3.gz
+
+The Col-CEN v1.2 gene annotation, lifted from the Araport11 annotation.
+
+###Col-CEN_v1.2_genes.tair10.gff3.gz
+
+The Col-CEN v1.2 gene annotation, lifted from the TAIR10 annotation. This was the annotation used to generate the results presented in the publication.
