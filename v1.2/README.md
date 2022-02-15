@@ -33,3 +33,17 @@ The Col-CEN v1.2 gene annotation, lifted from the Araport11 annotation.
 ### Col-CEN_v1.2_genes.tair10.gff3.gz
 
 The Col-CEN v1.2 gene annotation, lifted from the TAIR10 annotation. This was the annotation used to generate the results presented in the publication.
+
+### ColCEN_ATHILA.gff3.gz
+
+A custom ATHILA annotation
+
+### t2t-col.20201227.fasta.mod.EDTA.intact.gff3.gz
+
+Intact repeat elements predicted by EDTA
+
+### t2t-col.20201227.fasta.mod.EDTA.TEanno.gff3.gz
+
+Complete EDTA repeat annotation
+
+
